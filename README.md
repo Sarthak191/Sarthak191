@@ -1,7 +1,6 @@
 # Hi there, I'm Sarthak 👋 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Mechanical Engineer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more 
 - ⚡ Fun fact: I love to draw and watch cricket
