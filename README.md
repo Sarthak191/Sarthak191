@@ -8,8 +8,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/sarthakkatwate#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/sarthakkatwate#gh-dark-mode-only)
+[Linkedin Profile](www.linkedin.com/in/sarthakkatwate)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
